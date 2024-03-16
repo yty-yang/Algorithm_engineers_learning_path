@@ -1,0 +1,11 @@
+C++远征之起航篇：https://www.imooc.com/learn/342
+C++远征之离港篇：https://www.imooc.com/learn/381
+C++远征之封装篇（上）：https://www.imooc.com/learn/382
+C++远征之封装篇（下）：https://www.imooc.com/learn/405
+C++远征之继承篇：https://www.imooc.com/learn/426
+C++远征之多态篇：https://www.imooc.com/learn/474
+C++远征之模板篇：https://www.imooc.com/learn/477
+
+更多教程，关注我的公众号，微信公众号搜索：jackcui-ai ，即可订阅。
+
+https://cuijiahua.com/
